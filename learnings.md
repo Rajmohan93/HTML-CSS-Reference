@@ -2,14 +2,16 @@
 
 ## Text in center of DIV
 
-### Way 1
+If we have only text inside the DIV, please prefer the approach 1
+
+### Approach 1
 ```html
 <div class="col text-center">
    <div>some content</div>
 </div>
 ```
 
-### Way 2
+### Approach 2
 
 ```html
 <div class="d-flex justify-content-center">
