@@ -3,8 +3,9 @@
 ## Table of contents
 ### Bootstrap
 
-#### Sliders
+#### Images
 * [Carousel Sample with Rounded Button](https://github.com/Rajmohan93/HTML-CSS-Reference/blob/main/Carousel-sample.md)
+* [Background image overlay](https://github.com/Rajmohan93/HTML-CSS-Reference/blob/main/learnings.md#background-image-overlay)
 
 #### Rows & Columns
 * [Removing Space between col in Bootstrap](https://github.com/Rajmohan93/HTML-CSS-Reference/blob/main/learnings.md#remove-gap-between-col-in-bootstrap)
