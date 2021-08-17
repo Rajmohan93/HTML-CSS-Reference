@@ -50,3 +50,31 @@ If we have only text inside the DIV, please prefer the approach 1
         </div>
     </div>
 ```
+
+## Background Image Overlay
+
+```html
+<footer class="mt-5">
+   <div class="container-fluid pt-5 bg-overlay">
+      <div class="row text-center ">
+         <div class="col-12 ">
+            <h2>
+               <img src="logo-black.png ">
+            </h2>
+         </div>
+      </div>
+   </div>
+</footer>
+```
+
+```css
+.bg-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("bg-footer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: auto;
+    padding-top: 50px;
+}
+```
